@@ -4,7 +4,7 @@
 <br> <hr>
 
 
-<img align="right" height="200" src="https://new-crm.kyptronixllp.co.in/gourav.gif"  />
+<img align="right" height="180" src="https://new-crm.kyptronixllp.co.in/gourav.gif"  />
 
 
 <div align="left">
