@@ -2,13 +2,13 @@
 <hr>
 <h3>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design -  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
 <br> <hr>
-###
+
 
 <img align="right" height="148" src="https://kyptronix.us/images/webp/Gourav-Swarnakar%20(1).webp"  />
 
 
 <div align="left">
-  <h3>Socials : </h3>
+## 🌐 Socials:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
