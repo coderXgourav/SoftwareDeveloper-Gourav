@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋I'm a Gourav Swarnakar..</h2>
+<h2 align="center">Hi 👋I'm Gourav Swarnakar..</h2>  </br>
 
 ###
 
