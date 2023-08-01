@@ -4,7 +4,7 @@
 <br> <hr>
 
 
-<img align="right" height="148" src="https://kyptronix.us/images/webp/Gourav-Swarnakar%20(1).webp"  />
+<img align="right" height="148" src="[https://kyptronix.us/images/webp/Gourav-Swarnakar%20(1).webp](https://new-crm.kyptronixllp.co.in/load.gif)"  />
 
 
 <div align="left">
