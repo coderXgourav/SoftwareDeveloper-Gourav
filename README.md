@@ -8,6 +8,7 @@
 
 
 <div align="left">
+<h2>Tech Stacks :</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
   <img width="20" />
@@ -39,6 +40,7 @@
 ###
 
 <div align="left">
+  <h2>Socials :</h2>
   <a href="https://www.instagram.com/itz_g0urav/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
