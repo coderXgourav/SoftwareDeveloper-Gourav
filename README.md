@@ -1,10 +1,10 @@
 <h2 align="center">𝐇𝐢 👋 𝐈'𝐦 𝐆𝐨𝐮𝐫𝐚𝐯 𝐒𝐰𝐚𝐫𝐧𝐚𝐤𝐚𝐫</h2>  </br>
 <hr>
-<h3>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design -  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
+<h3>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
 <br> <hr>
 
 
-<img align="right" height="170" src="https://new-crm.kyptronixllp.co.in/gourav.gif"  />
+<img align="right" height="160" src="https://new-crm.kyptronixllp.co.in/gourav.gif"  />
 
 
 <div align="left">
