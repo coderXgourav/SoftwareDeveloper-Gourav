@@ -1,6 +1,7 @@
-<h2 align="center">𝐇𝐢 👋 𝐈'𝐦 𝐆𝐨𝐮𝐫𝐚𝐯 𝐒𝐰𝐚𝐫𝐧𝐚𝐤𝐚𝐫</h2>  </br>
+
+<h2 align="center"> Hi, I'm Gourav Swarnakar 👨🏻‍💻</h2>  </br>
 <hr>
-<h3>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
+<h4>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design  HTML, CSS, Bootstrap, Tailwind, JavaScript, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h4>
 <br> <hr>
 
 
@@ -16,14 +17,15 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="31" alt="bootstrap logo"  />
   <img width="20" />
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="31" alt="bootstrap logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31" alt="jquery logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="31" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" height="31" alt="laravel logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
   <img width="20" />
